@@ -15,9 +15,9 @@
 ## What we build
 
 - 🌐 **Shared Hosting** — Web hosting with cPanel-style ease from ₹49/mo
-- ⚡ **Cloud VPS** — Linux VPS with NVMe SSD, full root access from ₹99/mo
 - 📧 **Business Email** — Custom-domain email with DKIM/SPF/DMARC from ₹40/mo
-- 🚀 **GPU Instances** — On-demand NVIDIA RTX 4090 / A100 / H100, hourly billing
+- ⚡ **Cloud VPS** — Linux VPS with NVMe SSD, full root access from ₹99/mo
+- 🚀 **GPU Instances** — On-demand NVIDIA RTX 4090 / A100 / H100 from ₹38/hr
 - 🖥 **Dedicated Servers** — Bare-metal Intel Xeon / AMD EPYC, monthly
 - 📦 **App Hosting** — Deploy from GitHub in 60 seconds
 - ☁️ **Object Storage** — S3-compatible with multi-region replication
